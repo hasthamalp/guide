@@ -14,7 +14,7 @@
 
 
 
-## Icons(Webdevelopers&GraphicDesigners)
+## Icons(Web Developers&GraphicDesigners)
 
 1. [FlatIcon](https://www.flaticon.com/)
 1. [Icon-Icons](https://icon-icons.com/)
@@ -35,7 +35,7 @@
 
 
 
-## Webdevelopment
+## Web Development
 
 
 1. [W3schools](https://www.w3schools.com/)
