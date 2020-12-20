@@ -46,5 +46,32 @@
 ## Markdown
 1. [Github Markdown Cheetsheeet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 1. [Emoji Cheet Sheet](http://www.emoji-cheat-sheet.com/)
-1. [OnlineMrkdown Editor](https://dillinger.io/)
+1. [OnlineMarkdown Editor](https://dillinger.io/)
+
+
+
+## CodeEditors
+
+
+1. [VS code](https://code.visualstudio.com/download)
+1. [Sublime](https://www.sublimetext.com/)
+1. [Atom](https://atom.io/)
+
+
+
+## Online Quiz Conducting Platforms
+
+
+1. [Kahoot](https://kahoot.it/)
+1. [Slido](http://slido.com/)
+
+## Troll And Cartoon 
+
+1. [ChaliMachine](http://chalimachine.com/)
+2. [Pucham](https://pucham.com/)
+
+
+## Design Resources For Developers
+
+[All iN One](https://github.com/bradtraversy/design-resources-for-developers)
 
