@@ -75,3 +75,11 @@
 
 [All iN One](https://github.com/bradtraversy/design-resources-for-developers)
 
+## Others
+1. [Cheetsheet](https://cheatography.com/)
+1. [shortcuts](https://shortcuts.design/)
+
+
+
+
+
